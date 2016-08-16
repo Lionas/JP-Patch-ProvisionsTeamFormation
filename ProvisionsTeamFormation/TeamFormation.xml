@@ -1,0 +1,9 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="ProvisionsTeamFormation">
+            <OnInitialized>
+                TeamFormation_OnInitialized()
+            </OnInitialized>
+        </TopLevelControl>
+    </Controls>
+</GuiXml>
